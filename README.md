@@ -1,1 +1,0 @@
-# ide_for_sqlite3
